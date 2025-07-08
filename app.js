@@ -1,0 +1,12 @@
+const evenlist = require('./HW/even');
+const fact = require('./HW/factorial');
+const multiplication = require('./HW/multiplicationtable');
+const sumnatural= require('./HW/sum'); 
+const largest= require('./HW/number'); 
+const leap= require('./HW/leapyear');  
+evenlist();
+fact();
+multiplication();
+sumnatural();
+largest();
+leap();
